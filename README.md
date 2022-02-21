@@ -1,3 +1,3 @@
 # Snake-Game
 
-It is a simple java code of sanke game.
+It is a simple java code of snake game.
